@@ -1,4 +1,22 @@
+body{
+    font-size:22px; 
+    color:black
+}
+h1,h2{
+    color:blue;
+}
 p{
-    font-size:66px; 
-    color:purple
+    color:black;
+}
+.p1{
+    color: gray;
+}
+
+#second {
+    font-style: italic;
+}
+
+.highlight{
+    text-transform: uppercase;
+    background-color: gold;
 }
